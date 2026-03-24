@@ -41,8 +41,8 @@ Business Analyst and Business Systems Analyst portfolio featuring Dynamics 365, 
 - Stakeholder Communication
 - Documentation and Training Materials
 
-## LinkedIn
-Add your LinkedIn profile link here
+## LinkedIn[
+[Add your LinkedIn profile link here](https://www.linkedin.com/in/changlan-dai-36627a28/)]
 
 ## Contact
-Add your preferred professional email here
+challen.day@gmail.com
