@@ -31,3 +31,4 @@ Rental Smart is a Property Management solution designed in Microsoft Power Platf
 
 ## Artifacts
 Files will be added here.
+[Rental Smart - US37 Tenant Login Validation - Support-20251029-220632.xlsx](https://github.com/user-attachments/files/26204380/Rental.Smart.-.US37.Tenant.Login.Validation.-.Support-20251029-220632.xlsx)
