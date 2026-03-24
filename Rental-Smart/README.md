@@ -1,3 +1,4 @@
+<img width="1920" height="948" alt="Rental Smart_ADO Screenshot 1" src="https://github.com/user-attachments/assets/7c5a6db0-aab0-47e1-8b83-f7e0b1de7dc5" />
 # Rental Smart
 
 ## Overview
