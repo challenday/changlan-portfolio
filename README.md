@@ -42,7 +42,7 @@ Business Analyst and Business Systems Analyst portfolio featuring Dynamics 365, 
 - Documentation and Training Materials
 
 ## LinkedIn[
-[Add your LinkedIn profile link here](https://www.linkedin.com/in/changlan-dai-36627a28/)]
+[LinkedIn](https://www.linkedin.com/in/your-link-here/)
 
 ## Contact
 challen.day@gmail.com
